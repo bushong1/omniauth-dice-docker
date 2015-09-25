@@ -1,0 +1,4 @@
+dice:
+  build: .
+  volumes:
+   - ./omniauth-dice:/opt/omniauth-dice
