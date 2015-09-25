@@ -1,0 +1,3 @@
+[submodule "omniauth-dice"]
+	path = omniauth-dice
+	url = https://github.com/stevenhaddox/omniauth-dice.git
